@@ -1,3 +1,0 @@
-/home/mhliang/Desktop/MPRPC/CHAT/chatserver-master/test/testmuduo/build/CMakeFiles/rebuild_cache.dir
-/home/mhliang/Desktop/MPRPC/CHAT/chatserver-master/test/testmuduo/build/CMakeFiles/server.dir
-/home/mhliang/Desktop/MPRPC/CHAT/chatserver-master/test/testmuduo/build/CMakeFiles/edit_cache.dir
